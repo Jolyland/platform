@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@hcengineering/platform": "workspace:^0.7.20",
-    "svelte": "^4.2.20",
+    "svelte": "^5.57.0",
     "@hcengineering/ui": "workspace:^0.7.0",
     "@hcengineering/analytics": "workspace:^0.7.19",
     "@hcengineering/presentation": "workspace:^0.7.0",
@@ -59,7 +59,7 @@
     "@hcengineering/text-markdown": "workspace:^0.7.21",
     "@hcengineering/text-ydoc": "workspace:^0.7.19",
     "@hcengineering/emoji": "workspace:^0.7.0",
-    "@tiptap/core": "^2.11.7",
+    "@tiptap/core": "^3.31.0",
     "@tiptap/pm": "^2.11.7",
     "@tiptap/extension-code-block-lowlight": "^2.11.7",
     "@tiptap/extension-collaboration": "^2.11.7",
